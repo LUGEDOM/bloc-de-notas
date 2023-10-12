@@ -1,0 +1,126 @@
+*{
+   padding: 0;
+}
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background:white;
+}
+
+textarea{
+    resize: none;
+    width: 100%;
+    height: 600px;
+    font-size: 120%;
+
+}
+
+#nombre{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#guardar{
+    display: inline-block;
+    border-radius: 5px;
+    background-color: #7f8880d8;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: none;
+    color: #ffffff;
+    text-align: center;
+    font-size: 15px;
+    padding: 10px 5px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 8em × 4em;
+}
+
+#guardar:hover{
+    background-color: #008CBA;
+    color: white;
+}
+
+#btn-volver{
+    display: inline-block;
+    border-radius: 5px;
+    background-color: #7f8880d8;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: none;
+    color: #ffffff;
+    text-align: center;
+    font-size: 15px;
+    padding: 10px 5px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 2px;
+    
+}
+
+#btn-volver:hover{
+    background-color: #008CBA;
+    color: white;
+}
+
+#btn-crear{
+    display: inline-block;
+    border-radius: 5px;
+    background-color: #7f8880d8;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: none;
+    color: #ffffff;
+    text-align: center;
+    font-size: 15px;
+    padding: 10px 5px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 2px;
+}
+
+#btn-crear:hover{
+    background-color: #008CBA;
+    color: white;
+}
+
+#btn-ver{
+    display: inline-block;
+    border-radius: 5px;
+    background-color: #7f8880d8;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: none;
+    color: #ffffff;
+    text-align: center;
+    font-size: 15px;
+    padding: 10px 5px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 2px;
+}
+
+#btn-ver:hover{
+    background-color: #008CBA;
+    color: white;
+}
+
+#buscar{
+    display: inline-block;
+    border-radius: 5px;
+    background-color: #7f8880d8;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: none;
+    color: #ffffff;
+    text-align: center;
+    font-size: 15px;
+    padding: 10px 5px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 2px; 
+}
+
+#buscar:hover{
+    background-color: #008CBA;
+    color: white;
+}
